@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FirstAppAndroid</string>
+    <string name="txt_button">Abrir</string>
+    <string name="txt_two">Otra vista de la app</string>
 </resources>
